@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="UTF-8">
+		<title>Amerigas</title>
+		<link rel="stylesheet" href="ab.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" href="http://localhost:8080/favicon.ico">
+	</head>
+	<body>
+		<div class="side-left">
+			<div class="left-icons"></div>
+		</div>
+		<div class="content">
+			<div class="call-flow"></div>
+			<div class="kbs"></div>
+			<div class="tmp">
+				<textarea class="tmp-a"></textarea>
+				<p><a href="#" class="btns btn-icons">Load Icon</a>&nbsp;&nbsp;<a href="#" class="btns btn-iprev">iprev</a></a>&nbsp;&nbsp;<a href="#" class="btns btn-ab">ab</a></p>
+				<textarea class="tmp-fxn"></textarea>
+			</div>
+			<div class='scripts'></div>
+			<div class='styles'></div>
+		</div>
+	</body>
+	<script src="ab.js" charset="utf-8"></script>
+  <script>
+	let arrow = document.querySelectorAll(".arrow");
+	for (var i = 0; i < arrow.length; i++) {
+			arrow[i].addEventListener("click", (e)=>{
+			let arrowParent = e.target.parentElement.parentElement;//selecting main parent of arrow
+			arrowParent.classList.toggle("showMenu");
+		});
+	}
+  </script>
+	
+</html>

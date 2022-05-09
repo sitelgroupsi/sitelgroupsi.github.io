@@ -1,0 +1,149 @@
+*empty
+.left-icons
+*end-empty
+
+*html
+.call-flow | prepend | Search: <input type="text" id="kbCase" onkeyup="caseSearch()" placeholder="Search for case type.." title="Type in a case type"><ul id="caseList"></ul>
+*end-html
+
+*css
+.call-flow | add | float:left;width:24%;border:1px solid blue;
+.kbs | add | float:left;width:74%;border:1px solid red;
+*end-css
+
+*element
+appendTo >> .left-icons
+type >> button
+title >> LD
+class >> btns btn-icon ui-icon
+onclick >> ab.fxn.kbShow(this)
+children >> Load Data:load-data ui-icon-script | Wrap Up:wrap-up ui-icon-folder-open | KB:show-kb ui-icon-document | Show Images:show-img ui-icon-note
+*end-element
+
+*fxn
+*fxn-name:kbShow
+var idKb = e.getAttribute('title');
+var classKb = e.getAttribute('class');
+var ckb = '*'+classKb;
+var fxns = idKb +'\n'+ classKb;
+alert(fxns);
+if(isText(ckb, 'kb-issue')){
+	$('.kbs').html('');
+	var iText = $('#' + idKb).val().split('\n');
+	for(var i = 0;i < iText.length;i++){
+		var ito = iText[i].trim().toLowerCase();
+		if(isText('*'+iText[i], 'Tabs:')){
+			/*var a = iText[i].replace('Tabs:').split('|');*/
+			var a = iText[i].split('|');
+			var b = '';
+			for(var l = 0; l < a.length; l++){
+				if(l == 0){
+					b += '<span><b>'+ a[l].replace('Tabs: ', '')  +':</b><span><br />';
+				} else {
+					b += '<span>'+a[l].trim()+'<span><br />';
+				}
+			}
+			$('.kbs').append('<div class="tab-kb">'+b+'</div>');
+		}
+	}
+	$('.kbs').append('<textarea>'+ $('#' + idKb).val() + '</textarea>');
+	$('#caseList').hide();
+} else if(isText(ckb, 'load-data')){
+	alert(fxns);
+}
+*end-fxn
+
+*kb
+Issue: Payment
+Case: Sold To
+Case Type: 
+Case Sub-Type:
+Create a Case: NO
+Process:
+Customer called in to make a payment
+- CRM | Search Account
+- Magnifying glass
+- Application -> SAP -> Invoices
+- click "Invoice" tab, lower part
+- select the "invoice#" or ask CXA
+- "Payment" button top right.
+- Company Code: OLPR | Cash J #: 9002 | Buss: 5738
+- "Execute" button, top page
+- click OK or check button
+- Tick check-box next to Invoice#
+- ">>" button -> Make Payment
+- Card Type: Visa/MC | Expiry: | Acct. Name:
+- CRM -> Application -> ECKOH
+- Enter "Screen2Phone ID: 47902" in FINESSE.
+- "Please enter your CREDIT CARD followed by the pound(#)key"
+ ** #1 to re-enter | #885 for multiple CC
+- If Green check mark, verify CC info.
+- You are about to pay the AMOUNT of ($628), Would you like me proceed?
+- copy 'Authorization Successful. Auth Code: PPS550'
+- copy "Transaction Control #:"
+- AGENT: Would you like your RECEIPT sent to your email?
+- Print/Email | Cancel
+Tabs: Notes & Activity
+Tabs: Save and Close
+*end-kb
+
+*kb
+Issue: Down Payment
+Case: Sold To
+Case Type: 
+Case Sub-Type: 
+Create a Case: NO
+Process:
+Customer called in to make a down-payment
+- CRM | Search Account
+- Magnifying glass
+- Application -> SAP -> Invoices
+- click "Invoice" tab, lower part
+- select the "invoice#" or ask CXA
+- "Payment" button top right.
+- Company Code: OLPR | Cash J #: 9002 | Buss: 5738
+- Down Payment Options:
+- Special G/L Ind: A | Downpayment(A)
+- click "Downpayment" button
+- click "Check" and Enter the Amount.
+- click "New Credit Card"
+- Card Type: Visa/MC | Expiry: | Acct. Name:
+- CRM -> Application -> ECKOH
+- Enter "Screen2Phone ID: 47902" in FINESSE.
+- "Please enter your CREDIT CARD followed by the pound(#)key"
+ ** #1 to re-enter | #885 for multiple CC
+- If Green check mark, verify CC info.
+- You are about to pay the AMOUNT of ($628), Would you like me proceed?
+- copy "Authorization Successful. Auth Code: PPS550"
+- copy "Transaction Control #:"
+- AGENT: Would you like your RECEIPT sent to your email?
+- Print/Email | Cancel
+*end-kb
+
+*kb
+Issue: Reverse or Refund Payment
+Case: Sold To
+Case Type: Billing AR 
+Case Sub-Type: Refund
+Process:
+Customer called in because there is a double payment.
+- CRM | Search Account
+- Sold To | Click "+"
+- Create a Case
+- click "Save" button
+- Application -> SAP -> Invoices
+- click the "Document#"
+- copy the "Assignment#"
+- CV -> Home -> Hamburger icon
+- Accounting -> Payment Cockpit
+- click "Execute" button
+- Transaction #: 00 + Assignment#"
+- AGENT: Would you like me to go ahead and refund the amount of $$$? -> Click YES
+- copy Transaction#
+
+Tabs: Summary | Case Type: Billing/AR | Case Sub-Type: Refund
+Tabs: Notes & Activities
+Tabs: Resolve Case | Accounts Updated
+Tabs: Save & Close
+*end-kb
+
