@@ -1,11 +1,71 @@
 *Start:
 *Issue: Bill Increase
 *Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "Cust. Name". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+Initial Response:
+	Acknowledge:
+Thank you for calling us today about your "Bill increase". I know how confusing it is sometimes.
+	Assurance:
+I'll be more than happy to assist you with your "Bill change".
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+BTN: 
+
+Personalization:
+While I am pulling your account.
+I believe that you've been with us for quite some time now, If you don't mind me asking, How's your experience with our services, so far?
+I see, it's good to hear that you are happy and satisfied with our services......
+
+Research and Resolve:
+"_CustName_", looking at the account, the discounted or promotional price is already expired since it is only for 12 months.
+I can assure you that the quality of service will remain the same and at any moment you may still upgrade and do changes in your account easily.
+
+Earning the Right Offer: 
+Billing concern/Resolution
+	1. Enroll in Autopay and Paperless Bill. That will save you $3 each and total of $6 for both. 
+	2. Compatible router or modem = If you have a compatible router ormodem available you could use those. It will save you for $10. If you want to know if your router or modem is compatible you may contact the manufacturer.
+	3. ACP = Affordable Connectivity Program. You may avail for ACP if you are eligible by calling ACP Support at (877) 384-2575 or visit ACPBenefit.org. FCC = Federal Communications Commission.
+	4. Downgrade = You could also Downgrade your plan if you want?
+
+Retention or cancel  account
+
+** All discounts will reflect on their next bill.
+** Router lease is $10 / month.
+
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with your new discount of (in Dollars $__) in your plan. This will reflect on your next bill.
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and enjoy the rest of your day. 
+Have a wonderful day! Goodbye!
+
 
 
 *Start:
 *Issue: Copper to Fiber - Upgrade
 *Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
 
 
 *Start:
@@ -28,9 +88,54 @@ Transfer to Tech Support
 *Issue: RT/RD – Move Orders
 *Process:
 
-*Start:
+*Start: Call Flow
 *Issue:
 *Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+Initial Response:
+	Acknowledge:
+Thank you for calling us today about your .
+	Assurance:
+I'll be more than happy to assist you with your 
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+While I am pulling your account.
+...
+
+Research and Resolve:
+....
+
+Earning the Right Offer or Resolution:
+....
+
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with your new discount of (in Dollars $__) in your plan. This will reflect on your next bill.
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and enjoy the rest of your day. 
+Have a wonderful day! Goodbye!
+
 
 *Start:
 *Issue:
