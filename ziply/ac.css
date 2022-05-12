@@ -1,0 +1,115 @@
+body {
+  font-family: "Lato", sans-serif;
+  background: #eeeeee;
+}
+
+#myCanvas{
+	border:1px solid #d3d3d3;
+	min-height:300px;
+	min-height:200px;
+	/*opacity: 150%;*/
+}
+.data-txt{width:100%;height:50px;}
+
+.callflow, .cf-kb{float:left;width:100%;}
+.cf-temp{width:98%;padding:1%;min-height:100px;display:none;}
+.kb-info{display:none;width:100%;height:280px;}
+.cf-temp, .kb-info{width:49%;float:left;}
+.call-flow span{display:block;}
+.call-flow span.header{font-weight:bold;size:1.2em;padding:0 0 5px 0;}
+.cf-textarea{width:100%;height:5em;}
+.cfno, .cfno-img{width:30px;}
+
+.call-flow .spiel{font-style:italic;padding:0 0 4px 15px;}
+span.power-words{display:block;font-weight:bold;size:1.2em;}
+.call-flow{display:none;}
+.kb-item, .hdata{display:none;}
+.wrapup{display:none;font-size: 0.8rem;}
+.kb-notes{float:left;min-width:34%;width:100%;}
+.kbimges{display:none;float:left; width:64%;height:450px;}
+.kb-docs{float:left;font-size: 0.8rem;padding-left:1rem;}
+.olpr{font-size: 0.8rem;}
+
+/* 2022-05-12 */
+.btn-callflow{display:none;}
+
+#kbCase {
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 0.7rem;
+  padding_: 12px 20px 12px 40px;
+  padding: 5px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#caseList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  height:200px;
+  overflow:auto;
+}
+
+#caseList li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 5px;
+  text-decoration: none;
+  font-size: 0.7rem;
+  color: black;
+  display: block
+}
+
+#caseList li a:hover:not(.header) {
+  background-color: #eee;
+}	
+
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 1rem;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 2rem;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+

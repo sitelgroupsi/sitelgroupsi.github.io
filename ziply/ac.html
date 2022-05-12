@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="theme-color" content="#009578">
+        <title>Ziply Fiber</title>
+        <link rel="stylesheet" href="ac.css">
+    </head>
+    <body>
+		<div id="leftside" class="sidenav">
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+			<button class="btn btnLoadText"><b>Load Text</b></button><br />
+			<textarea class="data-txt" padding="top right bottom left"></textarea>
+			<div class="kb-filter">
+				<input type="text" id="kbCase" onkeyup="caseSearch()" placeholder="Search for case type.." title="Type in a case type">
+				<ul id="caseList">
+				</ul>
+			</div>
+			<div class="div-hr">&nbsp;&nbsp;</div>
+
+		</div>
+
+			
+		</div>
+		<div id="main" class="main">
+			<div id="mainContent">
+				<div class="open-nav">
+					<span style="font-size:25px;cursor:pointer" onclick="openNav()">&#9776;</span>
+					<span>&nbsp;&nbsp;</span>
+					<span class="pwords">Power Words: Pefect! | Wonderful! | Great! | Awesome! </span>
+				</div>
+				<div class="callflow">
+					<div class="btn-callflow">
+						<span style="font-size:25px;cursor:pointer" onclick="openNav()">&#9776;</span>&nbsp;&nbsp;
+						<button class="btn btn-back"><b>&lt;&lt;</b></button>
+						<input type="text" name="cfno" class="cfno" value="1" />
+						<button class="btn btn-next"><b>&gt;&gt;</b></button>
+						<button class="btn btn-wrap"><b>Wrap-Up</b></button>
+						<span> | </span>
+						<button class="btn btn-img-show"><b>Show Img</b></button>
+						<button class="btn bi-back" id="bi-back"><b>&lt;&lt;</b></button>
+						<input type="text" name="cfno-img" class="cfno-img" value="1" />
+						<button class="btn bi-next"><b>&gt;&gt;</b></button>
+						<button class="btn btn-img-hide"><b>Hide Img</b></button>
+						<button class="btn btn-calc"><b>calc</b></button>
+					</div>
+					<div class="call-flow cf-1 cf-opening">
+						<span class="header">Opening:</span>
+						<span class="spiel">Thank you for calling Verizon, my name is "Jeremias".</span>
+						<span class="spiel">How may I help you, today?</span>
+						<span class="spiel"><b>Paraphrase: ......</b></span>
+						<span>I see..... Since you got me on the line, I will try my best and pull-up all my resouces to help you with current situation.</span>
+					</div>
+					<div class="call-flow cf-2 cf-pulling">
+						<span class="header">Account Pull-up:</span>
+						<span class="spiel">to start, May I have your <b>Fullname</b> and the <b>Account#</b>, please?</span>
+					</div>
+					<div class="call-flow cf-3 cf-pulling">
+						<span class="header">Account Verification:</span>
+						<span class="spiel">For verification purposes, may I have your <b>Zipcode</b>, please?</span>
+					</div>
+					<div class="wrapup">
+						<p>1. Ask a "Satisfaction Question" | Choose one <br />- Are you satisfied with the service that you received today? <br />- Are you satisfied with our interaction today? <br />- Have I effectively answered all your questions today?</p>
+
+						<p>2.  Anything else that can I help you with?</p>
+
+						<p>3. Whenever you get the chance, please visit our website at VERIZON.COM where you can register your account, pay bills, find more information about this call and many more.</p>
+
+						<p>4. Close the call <br />- Again, Thank you for being a VALUED Verizon customer"</p>
+					
+					</div>
+					
+					<div class="kb-desc">
+						<div class="kb-notes">
+							<textarea name="cf-accphone" class="cf-temp" data-name="account"></textarea>
+							<textarea class="kb-info"></textarea>
+						</div>
+						<div class="kb-img">
+							<div class="kb-images"></div>
+						</div>
+					</div>
+					<div class="kb-docs"></div>
+				</div>
+
+				<div class="cf-kb">
+				</div>
+				
+				<div class="cf-images"></div>
+				<div class="hdata">
+					<span class="imgdir"></span>
+				</div>
+
+			</div>
+		</div>
+		<script src="ac.js" charset="utf-8"></script>
+
+    </body>
+</html>
