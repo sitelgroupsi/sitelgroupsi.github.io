@@ -11,6 +11,8 @@ Hello! "Cust. Name". How are you today?
 - Rapport..... Oh really... that's wonderful.
 - Use power words......
 
+How may I help you?
+
 Initial Response:
 	Acknowledge:
 Thank you for calling us today about your "Bill increase". I know how confusing it is sometimes.
@@ -27,10 +29,13 @@ BTN:
 Personalization:
 While I am pulling your account.
 I believe that you've been with us for quite some time now, If you don't mind me asking, How's your experience with our services, so far?
-I see, it's good to hear that you are happy and satisfied with our services......
+- I see, it's good to hear that you are happy and satisfied with our services......
 
 Research and Resolve:
-"_CustName_", looking at the account, the discounted or promotional price is already expired since it is only for 12 months.
+-* "_CustName_", from what I can see here, when you first signup from us we gave you a $20 discount as a promotional or introductory rate. Right now it's already ended.
+- And I can assure you that the quality of service will remain the same.
+
+-* "_CustName_", looking at the account, the discounted or promotional price is already expired since it is only for 12 months.
 I can assure you that the quality of service will remain the same and at any moment you may still upgrade and do changes in your account easily.
 
 Earning the Right Offer: 
@@ -56,40 +61,8 @@ Thank you for being a Ziply customer!
 Take care and enjoy the rest of your day. 
 Have a wonderful day! Goodbye!
 
-
-
 *Start:
 *Issue: Copper to Fiber - Upgrade
-*Process:
-Greetings:
-Thank you for calling Ziply Fiber. My name is Jeremias.
-To whom do I have the pleasure of speaking with today?
-
-Customer name: 
-
-
-*Start:
-*Issue: Disconnection - Death or own account
-*Process:
-Supercedure
-
-*Start:
-*Issue: Transfer of Ownership
-*Process:
-KID: FONE-90-9554 sample spiel ng TSO transfer
-
-*Start:
-*Issue: Trasnfer to TSO
-*Process:
-Transfer to Tech Support
-
-
-*Start:
-*Issue: RT/RD – Move Orders
-*Process:
-
-*Start: Call Flow
-*Issue:
 *Process:
 Greetings:
 Thank you for calling Ziply Fiber. My name is Jeremias.
@@ -100,6 +73,396 @@ Customer name:
 Hello! "_CustName_". How are you today?
 - Rapport..... Oh really... that's wonderful.
 - Use power words......
+
+How may I help you?
+
+Initial Response:
+	Acknowledge:
+Thank you for calling us today about the upgrade .
+	Assurance:
+I'll be delighted to assist you with the upgrade and let me try my best to make this easy for you.
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+In order for me to help you, I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+While I am pulling your account. 
+I believe that you been with us and if you don't mind me asking, how's your experience with our services so far.
+
+"_CustName_", Would you please verify the Account Name and the Service Address, please?
+
+Research and Resolve:
+"_CustName_", Would you please verify the Account Name and the Service Address, please?
+
+Good news! based on our resources you are eligible for upgrade to fiber.
+Our Fiber internet is reliably fast with uploads and downloads, uninterrupted. 
+
+https://ziplyfiber.com/internet
+
+http://wdc-fone.nwestnetwork.com/Curriculum/Pages/ZF-Resi-Internet-Offer-Feb-2021-DSL.aspx
+
+How would you like me to proceed
+
+Earning the Right Offer or Resolution:
+Perfect, let me go ahead and process the upgrade for you.
+Our Techical Dept. will call you about the installation.
+*Advise that there will be a Tech visit and provide Covid19 messaging
+       
+* Before we get started, out of an abundance of caution and to protect you and our technicians, we would like to ask if anyone in your home/workplace has COVID-19 or coronavirus, showing symptoms (fever, coughing, shortness of breath), is self-isolating or being quarantined?
+
+* Fiber to Fiber50 to 1gig can be done remotely; unless ont has a problem tech needs to visit
+
+* Tell the cx to provide the order no to the Tech for reference
+I have a order number here, let me know when your ready?
+Order #: 14344
+ 
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with your Upgrade
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and enjoy the rest of your day. 
+Have a wonderful day! Goodbye!
+
+*Start:
+*Issue: Disconnection - Death
+*Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+How may I help you?
+
+Initial Response:
+Acknowledge:
+	On behalf of Ziply we extend our deepest condolences to your family.
+Assurance:
+	I'll try my best to make it an easy process for you.
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+Pull up the account....
+Have you eaten yet?
+
+Research and Resolve:
+"_CustName_", Would you please verify the Account Name and the Service Address, please.
+
+Earning the Right Offer or Resolution:
+Supercedure
+- When do you want to disconnect the service?
+- If you are renting the equipment like a router, we will send you a Return Mailing Kit within 5-7 days.
+- Where do you want me to send the Return mailing kit
+- Effectivity date of disconnection
+** Ziply recommends to take advantage of the 
+- Return mailing Kit with in 5-7 days.(FONE-87-11718)
+- What address to send the Mailing kit?
+- Mail within 30 days for return equipment.
+- Another 15 days if un-returned equipment will be billed the customer.
+- Order number: 14344 (pro-active)
+
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with the disconnection.
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and again our deepest condolences to your family. 
+Have a wonderful day! Goodbye!
+
+*Start:
+*Issue: Disconnection - Own account
+*Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+How may I help you?
+
+Initial Response:
+Acknowledge:
+	On behalf of Ziply we extend our deepest condolences to your family.
+Assurance:
+	I'll try my best to make it an easy process for you.
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+Pull up the account....
+Have you eaten yet?
+
+Research and Resolve:
+"_CustName_", Would you please verify the Account Name and the Service Address, please.
+
+Earning the Right Offer or Resolution:
+Supercedure
+- When do you want to disconnect the service?
+- Ow, Ziply recommends to take advantage with the services until the end of the month because we don't prorate when disconnecting.
+- Also "_CustName_"
+- Effectivity date of disconnection
+** Ziply recommends to take advantage of the 
+- Return mailing Kit with in 5-7 days.(FONE-87-11718)
+- What address to send the Mailing kit?
+- Mail within 30 days for return equipment.
+- Another 15 days if un-returned equipment will be billed the customer.
+- Order number: 14344 (pro-active)
+
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with the disconnection.
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and again our deepest condolences to your family. 
+Have a wonderful day! Goodbye!
+
+*Start:
+*Issue: Trasnfer to TSO - Tech
+*Process:
+
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+How may I help you?
+
+Initial Response:
+	Acknowledge:
+Apoligies that you are having issues with the equipment.		Assurance:
+Since you got me on the line, I'll be more than happy to assist you with it. 
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+While I am pulling your account.
+
+
+Research and Resolve:
+- Have you done any troubleshooting yet?
+
+
+Earning the Right Offer or Resolution:
+- I apologize and understand the importance of having your service working at full capacity. I would like to get a technical support specialist on the line to ensure we fully address the service issue(s). Would that be okay?
+
+Perfect!
+Please stay on the line and I'll be right with you shortly.
+
+TSO: 
+Hello, This is Jeremias from Retention. I have "_CustName_" who is having issues with their service (Broadband or TV) and I have a customer's BTN here.
+
+Back to Customer:
+Thank you for holding. I have "Calvin" on the line with us from technical support and he is going to further assist you.
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with your equipment issues.
+
+Is there anything else that I can help you with, before I leave you to Calvin?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Calvin will take over from here, Have a wonderful day!
+
+
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and enjoy the rest of your day. 
+Have a wonderful day! Goodbye!
+
+
+*Start:
+*Issue: Transfer of Ownership or Supercedure
+*Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+Friend name:
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+How may I help you?
+
+Initial Response:
+	Acknowledge:
+Thank you for calling us today about transferring the account .
+	Assurance:
+I'll be more than happy to assist you with the take over of your account. 
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+- While I'm pulling your account....
+How's the moving so far?
+
+Research and Resolve:
+"_CustName_", Would you please verify the Account Name and the Service Address, please.
+- Is your friend with your, right now?
+- Do you mind if I can speak to your friend?
+** confirm if the transfer is authorized >     get the complete name > best contact no > email address > DOB (optional)
+
+Earning the Right Offer or Resolution:
+- Hi "Friend_Name", Could you please pass the phone to "_CustName_", thank you.
+- "_CustName_", can I get the preferred date that you want to transfer?
+- "_CustName_", would like to change your Billing Address where we send your final bill?
+- Effectivity date
+- Billing address change if they want for both Cust. Name and Friend
+- Billing Cycle starts on the 1st and ends on the 30th of the Month.
+- will take with in 24 hours to fully update our system
+- Order Number: 14344 (pro-active)
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with your .
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and enjoy the rest of your day. 
+Have a wonderful day! Goodbye!
+
+
+*Start:
+*Issue: RT or RD – Move Orders
+*Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+How may I help you?
+
+Initial Response:
+	Acknowledge:
+Thank you for calling us today and letting us know that your are moving.
+	Assurance:
+I'll be more than happy to assist you with your account change and let me pull up my resources if you can still use the same phone number and the good new is you can enjoy the same internet service.
+By the way "_CustName_".
+My name is Jeremias.
+
+Obtaining Required Information:
+I may need to ask you a few questions to access your account.
+May I have your billing telephone number(BTN), so that I can pull up your account? please.
+
+BTN: 
+
+Personalization:
+While I am pulling your account.
+Do you mind to share your experience with our services.
+
+
+Research and Resolve:
+
+Earning the Right Offer or Resolution:
+- Name
+- New address
+- Would you like to list your phone number in the Yellow or White pages?
+** You'll received an anonymous calls, because your phone number is publicly available.
+- Would you like to have an new Voice Mail(VM). If yes generate new Passcode.
+- Name and best Callback Number
+- Date of Service or effectivity date
+- Installation(Tech visit) date AM/PM
+- Covid Protocol Advised / Covid Free
+- Address plant remarks / Landmark
+- Plant remarks
+- Order Number: 14344 (pro-active)
+
+Recapping the Resolution:
+"_CustName_", Thank you for allowing me to assist you with your .
+
+Is there anything else that I can help you with?
+
+Ending the Conversation:
+Thank you for being a Ziply customer! 
+Take care and enjoy the rest of your day. 
+Have a wonderful day! Goodbye!
+
+
+
+*Start:
+*Issue: Covid Free Spiel
+*Process:
+Before we get started, out of an abundance of caution and to protect you and our technicians, we would like to ask if anyone in your home/workplace has COVID-19 or coronavirus, showing symptoms (fever, coughing, shortness of breath), is self-isolating or being quarantined?
+
+
+*Start:
+*Issue: Call Flow
+*Process:
+Greetings:
+Thank you for calling Ziply Fiber. My name is Jeremias.
+To whom do I have the pleasure of speaking with today?
+
+Customer name: 
+
+Hello! "_CustName_". How are you today?
+- Rapport..... Oh really... that's wonderful.
+- Use power words......
+
+How may I help you?
 
 Initial Response:
 	Acknowledge:
@@ -127,7 +490,7 @@ Earning the Right Offer or Resolution:
 
 
 Recapping the Resolution:
-"_CustName_", Thank you for allowing me to assist you with your new discount of (in Dollars $__) in your plan. This will reflect on your next bill.
+"_CustName_", Thank you for allowing me to assist you with your .
 
 Is there anything else that I can help you with?
 
@@ -138,14 +501,156 @@ Have a wonderful day! Goodbye!
 
 
 *Start:
-*Issue:
+*Issue: JK - BILL INCREASE
 *Process:
+BILL INCREASE
+
+1. GREETING
+2. Personalization: How are you doing today? 
+3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self 
+4. Obtain required information: BTN 
+5. Research and Resolution
+       * Are there any changes made on the account?
+       * Do you have the bill handy? 
+          a. If yes; verify which part of the bill shows the changes and hm
+          b. educate ch where they can see the start and the end date of the promotion 
+       *Educate the ch that the introductory price has ended after 12mnths from their subscription that’s why their bill is back to the regular rate w/c is $20.00. 
+6. If the ch express that they can’t pay the bill moving forward here are the offers:
+       *Enroll to Autopay and Paperless Bill: They can save $6.00 in total and they can help the environment with paperless bill and they don’t need to worry of late fees if they are under autopay
+       *If the ch has an extra router that is compatible with their service; they can return the lease router so they can save $10.00
+       *Offer to enroll on ACP to get up to $30.00 discount from their monthly bill; refer the ch to the link from (FONE-87-11726). They can call ACP Support Center at
+(###) ###-##75. www.ACPBenefit.org 
+       *Downgrade the plan
+
+ Retention Offer: ONLY if the ch threaten to disconnect > Offer $10.00 discount for 3 months.
+
+7.  If ch accepted any offer: Verify the account > ask for the service address
+8. Process the request
+9. Remind the ch about the bill cycle updated MRC
+    Remind the ch about their due date
+    Provide the ORDER NO
+10. Recap: “Thank you for allowing me….” offer further assistance
+11. Close the Call
+
+
+*Start:
+*Issue: JK - TRANSFER TO TSO
+*Process:
+TRANSFER TO TSO - KID: FONE-90-9554
+
+    1. GREETING
+    2. Personalization: How are you doing today? 
+    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self 
+    4. Obtain required information: BTN
+    5. Engage with the ch while pulling up the accountability
+    6. Research and Resolution
+       *Transfer the call to TSO
+    7. Warm Transfer to TSO > Introduce self  and ch > provide BTN > provide ch concern > get back the ch to let them know that the tech is already checking on the concern 
+    8. Recap
+    9. Introduce Tech
+    10. Complete the transfer
+
+
+*Start:
+*Issue: JK - DISCONNECTION DUE TO DEATH 
+*Process:
+DISCONNECTION DUE TO DEATH 
+
+    1. GREETING
+    2. Personalization: How are you doing today?
+    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self  
+    4. Obtain required information: BTN
+    5. Verify Service Address > Verify Accnt Name > 
+    6. Ask if we need to change the billing address
+    7. Provide billing period and offer to disconnect at the end of the cycle
+    8. Add the disconnection date
+    9. Research and Resolution
+       *Process the request
+    10. Provide the order no. 
+    11. Recap > sympathize with the ch’s lost
+    12. Offer to provide the Ziply Service again in the future
+    13. Close the call
+
+*Start:
+*Issue: JK - COPPER TO FIBER UPGRADE
+*Process:
+COPPER TO FIBER UPGRADE
+
+    1. GREETING
+    2. Personalization: How are you doing today?
+    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
+    4. Obtain required information: BTN
+    5. Engage with the ch while pulling up the account
+    6. Verify if address is Fiber ready and confirm it with the ch
+    7. Provide the plans and highlight the advantage of each plan
+    8. Research and Resolution
+       *Process the request
+       *Advise that there will be a Tech visit and provide Covid19 messaging
+       
+       *Before we get started, out of an abundance of caution and to protect you and our technicians, we would like to ask if anyone in your home/workplace has COVID-19 or coronavirus, showing symptoms (fever, coughing, shortness of breath), is self-isolating or being quarantined?
+
+          Fiber to Fiber50 to 1gig can be done remotely; unless ont has a problem tech needs to visit
+
+        *Tell the ch to provide the order no to the Tech for reference
+    9. Recap
+    10. Close the call
+
+*Start:
+*Issue: JK - SUPERSEDURE or TAKEOVER
+*Process:
+
+SUPERSEDURE or TAKEOVER
+
+    1. GREETING
+    2. Personalization: How are you doing today?
+    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
+    4. Obtain required information: BTN
+    5. Engage with the ch while pulling up the account
+    6. Verify Service Address > Verify Accnt Name
+    7. Speak to the person who will takeover the account; confirm if the transfer is authorized >     get the complete name > best contact no > email address > DOB (optional)
+    8. Talk to the accnt holder and ask the best date for transfer 
+    9. Ask if the ch wants to change the billing address
+    10. Research and Resolution
+       *Process the request
+    11. Ask ch if they want their phone no to be added in the listing
+    12. Confirm the transfer date
+    13. Provide order no for both customers
+    14. Recap
+    15. Close the call
+
+*Start:
+*Issue: JK - DISCONNECTION
+*Process:
+DISCONNECTION
+
+    1. GREETING
+    2. Personalization: How are you doing today?
+    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
+    4. Obtain required information: BTN
+    5. Engage with the ch while pulling up the account
+    6. Verify Service Address > Verify Accnt Name
+    7. Ask if thee is someone who can takeover the account
+    8. Ask for the date of disconnection but offer the end of the billing cycle
+    9.  Ask if the ch wants to change the billing address
+    10. Research and Resolution
+       *Process the request
+    11. Provide order no
+    12. Recap
+    13. Offer Ziply Fiber Services in the future
+    14. Close the call
+
 
 *Start:
 *Issue:
 *Process:
 
+
 *Start:
-*Issue:
+*Issue: 
 *Process:
 
+
+
+*Start:
+*Issue: 
+*Process:
