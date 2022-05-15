@@ -538,17 +538,17 @@ BILL INCREASE
 *Process:
 TRANSFER TO TSO - KID: FONE-90-9554
 
-    1. GREETING
-    2. Personalization: How are you doing today? 
-    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self 
-    4. Obtain required information: BTN
-    5. Engage with the ch while pulling up the accountability
-    6. Research and Resolution
-       *Transfer the call to TSO
-    7. Warm Transfer to TSO > Introduce self  and ch > provide BTN > provide ch concern > get back the ch to let them know that the tech is already checking on the concern 
-    8. Recap
-    9. Introduce Tech
-    10. Complete the transfer
+1. GREETING
+2. Personalization: How are you doing today? 
+3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self 
+4. Obtain required information: BTN
+5. Engage with the ch while pulling up the accountability
+6. Research and Resolution
+	*Transfer the call to TSO
+7. Warm Transfer to TSO > Introduce self  and ch > provide BTN > provide ch concern > get back the ch to let them know that the tech is already checking on the concern 
+8. Recap
+9. Introduce Tech
+10. Complete the transfer
 
 
 *Start:
@@ -556,44 +556,44 @@ TRANSFER TO TSO - KID: FONE-90-9554
 *Process:
 DISCONNECTION DUE TO DEATH 
 
-    1. GREETING
-    2. Personalization: How are you doing today?
-    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self  
-    4. Obtain required information: BTN
-    5. Verify Service Address > Verify Accnt Name > 
-    6. Ask if we need to change the billing address
-    7. Provide billing period and offer to disconnect at the end of the cycle
-    8. Add the disconnection date
-    9. Research and Resolution
-       *Process the request
-    10. Provide the order no. 
-    11. Recap > sympathize with the ch’s lost
-    12. Offer to provide the Ziply Service again in the future
-    13. Close the call
+1. GREETING
+2. Personalization: How are you doing today?
+3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self  
+4. Obtain required information: BTN
+5. Verify Service Address > Verify Accnt Name > 
+6. Ask if we need to change the billing address
+7. Provide billing period and offer to disconnect at the end of the cycle
+8. Add the disconnection date
+9. Research and Resolution
+	*Process the request
+10. Provide the order no. 
+11. Recap > sympathize with the ch’s lost
+12. Offer to provide the Ziply Service again in the future
+13. Close the call
 
 *Start:
 *Issue: JK - COPPER TO FIBER UPGRADE
 *Process:
 COPPER TO FIBER UPGRADE
 
-    1. GREETING
-    2. Personalization: How are you doing today?
-    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
-    4. Obtain required information: BTN
-    5. Engage with the ch while pulling up the account
-    6. Verify if address is Fiber ready and confirm it with the ch
-    7. Provide the plans and highlight the advantage of each plan
-    8. Research and Resolution
-       *Process the request
-       *Advise that there will be a Tech visit and provide Covid19 messaging
+1. GREETING
+2. Personalization: How are you doing today?
+3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
+4. Obtain required information: BTN
+5. Engage with the ch while pulling up the account
+6. Verify if address is Fiber ready and confirm it with the ch
+7. Provide the plans and highlight the advantage of each plan
+8. Research and Resolution
+	*Process the request
+	*Advise that there will be a Tech visit and provide Covid19 messaging
        
-       *Before we get started, out of an abundance of caution and to protect you and our technicians, we would like to ask if anyone in your home/workplace has COVID-19 or coronavirus, showing symptoms (fever, coughing, shortness of breath), is self-isolating or being quarantined?
+	*Before we get started, out of an abundance of caution and to protect you and our technicians, we would like to ask if anyone in your home/workplace has COVID-19 or coronavirus, showing symptoms (fever, coughing, shortness of breath), is self-isolating or being quarantined?
 
-          Fiber to Fiber50 to 1gig can be done remotely; unless ont has a problem tech needs to visit
+	Fiber to Fiber50 to 1gig can be done remotely; unless ont has a problem tech needs to visit
 
-        *Tell the ch to provide the order no to the Tech for reference
-    9. Recap
-    10. Close the call
+	*Tell the ch to provide the order no to the Tech for reference
+9. Recap
+10. Close the call
 
 *Start:
 *Issue: JK - SUPERSEDURE or TAKEOVER
@@ -601,48 +601,43 @@ COPPER TO FIBER UPGRADE
 
 SUPERSEDURE or TAKEOVER
 
-    1. GREETING
-    2. Personalization: How are you doing today?
-    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
-    4. Obtain required information: BTN
-    5. Engage with the ch while pulling up the account
-    6. Verify Service Address > Verify Accnt Name
-    7. Speak to the person who will takeover the account; confirm if the transfer is authorized >     get the complete name > best contact no > email address > DOB (optional)
-    8. Talk to the accnt holder and ask the best date for transfer 
-    9. Ask if the ch wants to change the billing address
-    10. Research and Resolution
-       *Process the request
-    11. Ask ch if they want their phone no to be added in the listing
-    12. Confirm the transfer date
-    13. Provide order no for both customers
-    14. Recap
-    15. Close the call
+1. GREETING
+2. Personalization: How are you doing today?
+3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
+4. Obtain required information: BTN
+5. Engage with the ch while pulling up the account
+6. Verify Service Address > Verify Accnt Name
+7. Speak to the person who will takeover the account; confirm if the transfer is authorized >     get the complete name > best contact no > email address > DOB (optional)
+8. Talk to the accnt holder and ask the best date for transfer 
+9. Ask if the ch wants to change the billing address
+10. Research and Resolution
+	*Process the request
+11. Ask ch if they want their phone no to be added in the listing
+12. Confirm the transfer date
+13. Provide order no for both customers
+14. Recap
+15. Close the call
 
 *Start:
 *Issue: JK - DISCONNECTION
 *Process:
 DISCONNECTION
 
-    1. GREETING
-    2. Personalization: How are you doing today?
-    3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
-    4. Obtain required information: BTN
-    5. Engage with the ch while pulling up the account
-    6. Verify Service Address > Verify Accnt Name
-    7. Ask if thee is someone who can takeover the account
-    8. Ask for the date of disconnection but offer the end of the billing cycle
-    9.  Ask if the ch wants to change the billing address
-    10. Research and Resolution
-       *Process the request
-    11. Provide order no
-    12. Recap
-    13. Offer Ziply Fiber Services in the future
-    14. Close the call
-
-
-*Start:
-*Issue:
-*Process:
+1. GREETING
+2. Personalization: How are you doing today?
+3. Initial response: Acknowledgement > Assurance > Mention caller’s name > Reintroduce self
+4. Obtain required information: BTN
+5. Engage with the ch while pulling up the account
+6. Verify Service Address > Verify Accnt Name
+7. Ask if thee is someone who can takeover the account
+8. Ask for the date of disconnection but offer the end of the billing cycle
+9.  Ask if the ch wants to change the billing address
+10. Research and Resolution
+	*Process the request
+11. Provide order no
+12. Recap
+13. Offer Ziply Fiber Services in the future
+14. Close the call
 
 
 *Start:
