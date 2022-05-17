@@ -33,7 +33,7 @@ BTN:
           a. If yes; verify which part of the bill shows the changes and hm
           b. educate ch where they can see the start and the end date of the promotion 
 
-       *Educate the ch that the introductory price has ended after 12mnths from their subscription that’s why their bill is back to the regular rate w/c is $20.00. 
+       *Educate the ch that the introductory price has ended after 12mnths from their subscription that’s why their bill is back to the regular rate which is $20.00. 
 
 	- "_CustName_", from what I can see here, when you first signup from us we gave you a $20 discount as a promotional or introductory rate. Right now it's already ended.
 - And I can assure you that the quality of service will remain the same.
@@ -439,9 +439,9 @@ Earning the Right Offer or Resolution:
 - Would you like to have an new Voice Mail(VM). If yes generate new Passcode.
 - Name and best Callback Number
 - Date of Service or effectivity date
-- Installation(Tech visit) date AM/PM
-- Covid Protocol Advised / Covid Free
-- Address plant remarks / Landmark
+- Installation(Tech visit) date AM orPM
+- Covid Protocol Advised or Covid Free
+- Address plant remarks or Landmark
 - Plant remarks
 - Order Number: 14344 (pro-active)
 
@@ -665,10 +665,10 @@ Initial Response:
 * By the way <Customer's Name>.
 * Again my name is Jeremias.
 
-Customer's Option / resolutions:
+Customer's Option or resolutions:
 1. Enroll in Autopay and Paperless Bill. That will save you $3 each and total of $6 for both. 
 
-2. Compatible router/ modem = If you have a compatible router/modem available you could use those. It will save you for $10. If you want to know if your router/modem is compatible you may contact the manufacturer.
+2. Compatible router or modem = If you have a compatible router or modem available you could use those. It will save you for $10. If you want to know if your router/modem is compatible you may contact the manufacturer.
 
 3. ACP = Affordable Connectivity Program. You may avail for ACP if you are eligible by calling ACP Support at (877) 384-2575 or visit ACPBenefit.org. FCC = Federal Communications Commission.
 
@@ -736,10 +736,10 @@ Did you know that we can suspend an account for 2 to 9 months for only $39.99
 * By the way <Customer's Name>.
 * Again my name is Jeremias.
 
-Customer's Option / resolutions:
+Customer's Option or resolutions:
 1. Enroll in Autopay and Paperless Bill. That will save you $3 each and total of $6 for both. 
 
-2. Compatible router/ modem = If you have a compatible router/modem available you could use those. It will save you for $10. If you want to know if your router/modem is compatible you may contact the manufacturer.
+2. Compatible router or modem = If you have a compatible router or modem available you could use those. It will save you for $10. If you want to know if your router/modem is compatible you may contact the manufacturer.
 
 3. ACP = Affordable Connectivity Program. You may avail for ACP if you are eligible by calling ACP Support at (877) 384-2575 or visit ACPBenefit.org. FCC = Federal Communications Commission.
 
